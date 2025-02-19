@@ -22,7 +22,7 @@ I am a **versatile developer and designer** passionate about creating impactful 
 ---
 
 ### ⚡ Quote
-> *"Part of the journey is the end." – Tony Stark, Avengers: Endgame*
+> *“Code is read much more often than it is written.” – Guido Van Rossum, creator of Python*
 ---
 
 ### 📬 Let's Connect!  
