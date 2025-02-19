@@ -1,8 +1,4 @@
 ![af5364b2fe3fbfed4a259dc99b2e2b66](https://github.com/user-attachments/assets/f442e32c-7064-4b87-8392-57fad159066b)
-    
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patelmj04.patelmj04" />
-<div align="center">
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+patelmj04!;" alt="Typing Animation" />
 </h1>
