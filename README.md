@@ -9,7 +9,6 @@
 <!--     <img 
       src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" 
       alt="Aesthe!
-    
 tic Banner" 
       style="width: 100%; height: auto;" 
     /> -->
