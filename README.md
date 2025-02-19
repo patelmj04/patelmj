@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=70&lines=Welcome+!!;I'm+Mit+Patel;Scroll+Down+%F0%9F%91%87" alt="Typing Animation" />
 </h1>
+
 ![a527c6ba82174cfc93e031a1c2297c09](https://github.com/user-attachments/assets/d867bffb-0640-405f-aaa4-2ac8c9ee422b)
 
 
