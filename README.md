@@ -11,6 +11,7 @@
 tic Banner" 
       style="width: 100%; height: auto;" 
     />
+    
 </div>
 
 <h1 align="center">
