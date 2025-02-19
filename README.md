@@ -47,5 +47,5 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks!+✌️;" alt="Outro Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks !+✌️;" alt="Outro Typing Animation" />
 </h3>
