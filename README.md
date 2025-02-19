@@ -27,10 +27,10 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ### 📬 Let's Connect!  
 <div align="center"> 
-  <a href="mailto:devxicy@gmail.com" target="_blank">
+  <a href="mailto:mitjpatel04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/saket-rathi" target="_blank">
+  <a href="https://linkedin.com/in/patelmj04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
@@ -39,7 +39,7 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ### My Tech Stack  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,mongodb,typescript,vscode,github,figma" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vscode,github,figma" alt="Tech Stack" />
     <img src="https://skillicons.dev/icons?i=javascript,python,java," alt="Languages and Blockchain" />
 </div>
 
@@ -52,5 +52,5 @@ I am a **versatile developer and designer** passionate about creating impactful 
 ---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;+Let's+create+something+amazing+together!" alt="Outro Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks!+✌️;" alt="Outro Typing Animation" />
 </h3>
