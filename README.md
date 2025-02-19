@@ -37,10 +37,10 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ---
 
-### ⚒️ My Tech Stack  
+### My Tech Stack  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mongodb,typescript,vscode,github,figma" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,c,solidity" alt="Languages and Blockchain" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,mongodb,typescript,vscode,github,figma" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java," alt="Languages and Blockchain" />
 </div>
 
 ---
