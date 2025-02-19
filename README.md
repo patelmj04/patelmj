@@ -45,9 +45,9 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ---
 
-<div align="center">
-  <img src="https://holopin.me/patelmj04" alt="Holopin Badges" />
-</div>
+            <div align="center">
+              <img src="https://holopin.me/patelmj04" alt="Holopin Badges" />
+            </div>
 
 ---
 
