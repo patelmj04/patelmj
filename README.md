@@ -4,9 +4,7 @@
 
 ![a527c6ba82174cfc93e031a1c2297c09](https://github.com/user-attachments/assets/d867bffb-0640-405f-aaa4-2ac8c9ee422b)
 
-
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 ![af5364b2fe3fbfed4a259dc99b2e2b66](https://github.com/user-attachments/assets/f442e32c-7064-4b87-8392-57fad159066b)
